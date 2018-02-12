@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MediaPlayer2.iml" filepath="$PROJECT_DIR$/MediaPlayer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Media-Player.iml" filepath="$PROJECT_DIR$/Media-Player.iml" />
+      <module fileurl="file://C:\Users\sawon\AndroidStudioProjects\Khalid\Media-Player\MediaPlayer2.iml" filepath="C:\Users\sawon\AndroidStudioProjects\Khalid\Media-Player\MediaPlayer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\sawon\AndroidStudioProjects\Khalid\Media-Player\app\app.iml" filepath="C:\Users\sawon\AndroidStudioProjects\Khalid\Media-Player\app\app.iml" />
     </modules>
   </component>
 </project>
